@@ -1,0 +1,35 @@
+id ,name ,sex,age,type,power,faction,partnership,education,representation,position
+th,Thomas Hitzlsperger,1,1,0,2,1,99,0,1,3
+sh,Stefan Heim,1,2,0,1,1,99,2,2,3
+jr,Jochen Roettgermann,1,3,0,1,1,99,3,3,3
+os,Oliver Schraft,1,3,0,0,1,99,2,3,3
+cv,Claus Vogt,1,3,0,2,2,99,2,1,3
+wp,Wilfried Porth,1,4,0,1,2,99,3,1,2
+ra,Rainer Adrion,1,4,0,0,2,99,2,2,1
+bg,Dr. Bernd Gaiser,1,3,0,0,2,99,4,2,1
+hj,Hartmut Jenner,1,3,0,0,2,99,3,2,2
+ho,Hermann Ohlicher,1,5,0,0,2,99,3,1,1
+fr,Franz Reiner,1,3,0,0,2,99,2,4,1
+bs,Dr. Betram Sugg,1,3,0,0,2,99,4,4,1
+vb,VfB,99,99,1,2,99,99,99,99,99
+sw,Suedwestbank,99,99,1,2,99,99,99,99,99
+me,Mercedes Benz Bank,99,99,1,2,99,2,99,99,99
+mb,Mercedes Benz,99,99,1,2,99,0,99,99,99
+st,Stuttgarter Hofbraeu,99,99,1,0,99,1,99,99,99
+ja,Jako,99,99,1,1,99,0,99,99,99
+vr,VfB Rehawelt GmbH,99,99,1,2,99,3,99,99,99
+fp,VfB fairplay,99,99,1,2,99,3,99,99,99
+bm,FC Bayern Muenchen,99,99,1,0,99,99,99,99,99
+sn,Stadion NeckarPark,99,99,1,2,99,3,99,99,99
+wk,Wolfgang Kuhn,1,4,0,0,99,99,4,99,1
+da,Daimler AG,99,99,1,1,99,99,99,99,99
+ak,Alfred Kaercher SE & Co. KG,99,99,1,1,3,99,99,99,99
+gb,Guido Buchwald,1,3,0,0,3,99,0,5,99
+jk,Juergen Klinsmann,1,3,0,0,3,99,2,5,99
+tb,Thomas Berthold,1,3,0,0,3,99,0,5,99
+vz,Volker Zeh,1,3,0,0,3,99,1,2,99
+fm,Friedhild Miller,2,3,0,0,3,99,2,1,99
+vs,VSD,99,99,99,1,99,99,99,99,99
+sm,VfB Stuttgart Marketing GmbH,99,99,99,2,99,99,99,99,99
+kc,Kommission Clubmedien DFL,99,99,99,1,99,99,99,99,99
+pf,FC PlayFair,99,99,99,1,99,99,99,99,99
