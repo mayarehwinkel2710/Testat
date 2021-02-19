@@ -1,0 +1,22 @@
+CODEBUCH,
+Wert,Kommentar
+edgelist,Grundregel: Die Edgelist darf pro Spalte immer nur einen Wert enthalten. Bis auf die ID idealerweise numerisch codiert (als Zahl).
+from,"definiert den Sender in gerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, nur ein Wort"
+to ,"definiert den Empfänger in ungerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, etc. "
+relation,"Art der Beziehung Freunde/Bekannte/ Feinde (1) Arbeitskollegen, (2 ) Angestellter, (3) Sponsoren, (4) Partner, (5) Konkurrenten, (6) ehemaliges Arbeitsverhältnis "
+weight,"Beziehungsstärke: Schwach (1), Mittel (2), Stark (3)"
+nodelist,Grundregel: die IDs der Nodelist müssen mit den IDs der Edgelist komplett übereinstimmen. Ausprägungen der Attribute in der Regel numerisch definieren.
+id,"eindeutige Identifikation (ersten zwei Buchstaben des Namens) jedes einzelnen Mitglieds (vertex), das erfasst wird.  "
+name,Name der Bezeichnung des Knotens (Mitglied)
+sex,dichotome Ausprägung: 1=male oder 2=female 3=divers
+age,Alter: 30-40=1 40-50=2 50-60=3 60-70=4 70-80=5
+type,Unterscheidung zwischen Personen und Organisationen 0=person 1=organisation
+power,Einfluss: 0=weniger einflussreich 1=einflussreich 2=am einflussreichsten
+faction,"(function ist ein Befehl in R deshalb faction) Mitgliedschaft: Vorstand (1), Aufsichtsrat (2), Kandidaten (3), NA (4)"
+partnership,Unterscheidung zwischen 0=exclusiv partner 1=premium partner 2=hauptsponsor 3=TeamPartner
+education,Bildungsgrad 0=kein relevanter Bildungsgrad 1=ausbildung 2=studium 3=diplom 4=promotion
+representation,"Funktion innerhalb der VfB Gremien: Politik (1), Wirtschaft (2), Kommunikation (3), Technik (4), Sport/Gesundheit (5)"
+position,"Mitglied in der VfB Organisation (1), Stellvertreter (2), Vorsitz (3)"
+,
+,
+99,Variable: definiert fehlende Werte
